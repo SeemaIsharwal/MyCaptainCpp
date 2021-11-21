@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-    cout << "size of int: " <<sizeof(int) << "Bytes" << endl
+    cout << "size of int: " <<sizeof(int) << "Bytes" << endl;
     cout << "size of float: " <<sizeof(float) << "Bytes" << endl;
     cout << "size of double: " <<sizeof(double) << "Bytes" << endl;
     cout << "size of char: " <<sizeof(char) << "Byte" << endl;
